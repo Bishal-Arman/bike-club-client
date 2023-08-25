@@ -1,0 +1,10 @@
+.seeAllBikes {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 50px 0px;
+}
+.bike-img{
+    border-radius:31px;
+    height: 250px;
+}

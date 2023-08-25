@@ -1,0 +1,18 @@
+.pageNotFound{
+    height: 100vh;
+    background-color: #f4f4f4;
+   
+}
+.pageError{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.backCourse-btn{
+    margin-left:-50px;
+    margin-top:-50px
+}
+.backHome-btn{
+    margin-left:-50px;
+}
